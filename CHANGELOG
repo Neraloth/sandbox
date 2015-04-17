@@ -1,0 +1,8 @@
+[1.0.0_START] :
+	Using mina server for network.
+	Using DAO for database.
+	Adding accounts, characters.
+	Adding the conditions if account are banned, is good password...
+	Adding server connection.
+	Community was added.
+	Adding "banned" in accounts : 1 is banned, 0 not banned.
